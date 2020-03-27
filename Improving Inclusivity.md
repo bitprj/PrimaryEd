@@ -2,7 +2,7 @@
 
 ## Discussion points:
 *Ideas, feedback, concerns, plans*
-* Ask supervisor at Korematsu 
+*Ask supervisor at Korematsu 
   - What are the demographics 
   - Ask for feedback 
 * Research project 
