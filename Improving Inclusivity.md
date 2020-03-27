@@ -73,15 +73,3 @@
 
 
 
-## Action Plan:
-*Where to go next, dependencies, all deadlines*
-* Finish Management Webinar Outline 
-
-## Deliverables:
-*Within the next (timeframe)*
-Management Webinar Outline by Sunday 3/22/2020
-Management Webinar Outline by Monday 3/23/2020
-
-Name  | Assigned To | Deadline | Notes
-Management Webinar Outline | Lily |3/22/2020|Finish outline
-Slides of Management Webinar | Shreya | 2/23/2020 | 
