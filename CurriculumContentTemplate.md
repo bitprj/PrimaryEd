@@ -57,6 +57,32 @@
 * [Add your response here]
 
 ## Grade/Learning Differentiation 
-* Since some students will finish the activity quicker depending on age and skill, so what other concepts, activities, or ideas can you include so they will be occupied while other students finish?*  
+*Since some students will finish the activity quicker depending on age and skill, so what other concepts, activities, or ideas can you include so they will be occupied while other students finish?*  
 *How can you “level up” or advance the activity for students in different grades or that learn quicker?*  
+* [Add your response here]
+
+## Plan for Instruction (Include Time Spent on Each Activity)
+*List and describe each aspect of your lesson and instruction method*  
+*What is the sequence of the planned instructional activities in your lesson?*  
+* [Add your response here]
+
+## Materials & Equipments Needed
+*List all materials needed with amounts*  
+*Try to supplement expensive materials*  
+*Keep plausibility, safety, and cost in mind*  
+* [Add your response here]
+
+## Accommodations for Students
+*How will you differentiate instruction for different types of learners?*  
+*What accommodations will you provide for students with specialized needs?*  
+* [Add your response here]
+
+## Reflection
+*What are the strengths of the lesson?*  
+*What areas of the lesson could be further developed/improved?*  
+* [Add your response here]
+
+## Additional Visuals
+*Include any other conceptual diagrams, pictures, or worksheets you would like to use*  
+*Add an explanation of how each contributes to your lesson or reinforces student learning*
 * [Add your response here]
