@@ -1,6 +1,6 @@
 ---
-name: Posting Newsletter on Davis Parents FB Group
-about: Linking the blog post to FB post!
+name: Davis Parents FB Group
+about: Posting newsletter on Davis Parents FB group
 title: ''
 labels: ''
 assignees: shreyagupta98, mbangloy
